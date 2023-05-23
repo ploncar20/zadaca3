@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DLLs",
-    "\\Models",
-    "\\Repozitories"
+    "\\Evaluation Manager",
+    "\\Evaluation Manager\\Models",
+    "\\Evaluation Manager\\Properties",
+    "\\Evaluation Manager\\Repositories"
   ],
-  "SelectedNode": "\\Repozitories\\StudentRepositories.cs",
+  "SelectedNode": "\\Evaluation Manager\\Evaluation Manager.sln",
   "PreviewInSolutionExplorer": true
 }
